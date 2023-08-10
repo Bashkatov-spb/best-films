@@ -1,0 +1,7 @@
+dsaofdsf:
+  - gitignore
+  - env
+  - dotenv (config db, sequelizerc)
+  - supabase
+  - dockerfile
+  - dockerignore
