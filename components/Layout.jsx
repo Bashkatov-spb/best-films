@@ -5,7 +5,6 @@ module.exports = function Layout({ title, children, user }) {
   return (
     <html lang="en">
       <head>
-        <meta charSet="utf-8" />
         <title>{title}</title>
         <link
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
